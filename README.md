@@ -1,4 +1,4 @@
 san-java-ms
 ===========
-Mariusz Saramak
+Mariusz
 
